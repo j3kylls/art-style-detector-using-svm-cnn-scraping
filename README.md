@@ -1,4 +1,4 @@
-# Art Style Detector
+# Art Style Detector 
 
 ![Art Style Detection](https://img.shields.io/badge/Art%20Style%20Detection-blue)
 ![Python](https://img.shields.io/badge/Made%20with-Python-green)
